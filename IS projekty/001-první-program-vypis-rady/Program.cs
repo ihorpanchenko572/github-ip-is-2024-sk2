@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Diagnostics;
+using System.Transactions;
 
 class Program{
 
@@ -27,15 +29,15 @@ class Program{
            } 
 
            Console.Write("Zadejte poslední číslo řady (celé číslo): ");
-           int  first;
-           while(int.TryParse(Console.ReadLine(), out first)){
+           int  last;
+           while(int.TryParse(Console.ReadLine(), out last)){
 
                 Console.Write("Nezadali jsme celé číslo. Zadejte znovu poslední číslo řády(celé číslo): ");
            }
 
            Console.Write("Zadejte diference (celé číslo): ");
-           int  first;
-           while(int.TryParse(Console.ReadLine(), out first)){
+           int  step;
+           while(int.TryParse(Console.ReadLine(), out step)){
 
                 Console.Write("Nezadali jsme celé číslo. Zadejte diference (celé číslo): ");
            }
@@ -53,8 +55,14 @@ class Program{
 
 
            // Logika pro výpis řády - TO-DO
+           int current = first;
+           while(current <= last);{
 
+                 Console.WriteLine(current);
+                 current = current + step;
+           }
 
+        
            // Opaskování programu 
            Console.WriteLine("Pro opákování programu stiskněte klávesu a");
            again = Console.ReadLine();
