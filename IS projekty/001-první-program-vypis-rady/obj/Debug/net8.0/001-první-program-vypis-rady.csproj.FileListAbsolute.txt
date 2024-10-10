@@ -1,0 +1,15 @@
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/001-první-program-vypis-rady/bin/Debug/net8.0/001-první-program-vypis-rady
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/001-první-program-vypis-rady/bin/Debug/net8.0/001-první-program-vypis-rady.deps.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/001-první-program-vypis-rady/bin/Debug/net8.0/001-první-program-vypis-rady.runtimeconfig.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/001-první-program-vypis-rady/bin/Debug/net8.0/001-první-program-vypis-rady.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/001-první-program-vypis-rady/bin/Debug/net8.0/001-první-program-vypis-rady.pdb
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/001-první-program-vypis-rady/obj/Debug/net8.0/001-první-program-vypis-rady.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/001-první-program-vypis-rady/obj/Debug/net8.0/001-první-program-vypis-rady.AssemblyInfoInputs.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/001-první-program-vypis-rady/obj/Debug/net8.0/001-první-program-vypis-rady.AssemblyInfo.cs
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/001-první-program-vypis-rady/obj/Debug/net8.0/001-první-program-vypis-rady.csproj.CoreCompileInputs.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/001-první-program-vypis-rady/obj/Debug/net8.0/001-první-program-vypis-rady.sourcelink.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/001-první-program-vypis-rady/obj/Debug/net8.0/001-první-program-vypis-rady.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/001-první-program-vypis-rady/obj/Debug/net8.0/refint/001-první-program-vypis-rady.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/001-první-program-vypis-rady/obj/Debug/net8.0/001-první-program-vypis-rady.pdb
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/001-první-program-vypis-rady/obj/Debug/net8.0/001-první-program-vypis-rady.genruntimeconfig.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/001-první-program-vypis-rady/obj/Debug/net8.0/ref/001-první-program-vypis-rady.dll
