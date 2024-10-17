@@ -1,0 +1,15 @@
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program000a zakladni kod/bin/Debug/net8.0/program000a zakladni kod
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program000a zakladni kod/bin/Debug/net8.0/program000a zakladni kod.deps.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program000a zakladni kod/bin/Debug/net8.0/program000a zakladni kod.runtimeconfig.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program000a zakladni kod/bin/Debug/net8.0/program000a zakladni kod.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program000a zakladni kod/bin/Debug/net8.0/program000a zakladni kod.pdb
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program000a zakladni kod/obj/Debug/net8.0/program000a zakladni kod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program000a zakladni kod/obj/Debug/net8.0/program000a zakladni kod.AssemblyInfoInputs.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program000a zakladni kod/obj/Debug/net8.0/program000a zakladni kod.AssemblyInfo.cs
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program000a zakladni kod/obj/Debug/net8.0/program000a zakladni kod.csproj.CoreCompileInputs.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program000a zakladni kod/obj/Debug/net8.0/program000a zakladni kod.sourcelink.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program000a zakladni kod/obj/Debug/net8.0/program000a zakladni kod.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program000a zakladni kod/obj/Debug/net8.0/refint/program000a zakladni kod.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program000a zakladni kod/obj/Debug/net8.0/program000a zakladni kod.pdb
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program000a zakladni kod/obj/Debug/net8.0/program000a zakladni kod.genruntimeconfig.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program000a zakladni kod/obj/Debug/net8.0/ref/program000a zakladni kod.dll
