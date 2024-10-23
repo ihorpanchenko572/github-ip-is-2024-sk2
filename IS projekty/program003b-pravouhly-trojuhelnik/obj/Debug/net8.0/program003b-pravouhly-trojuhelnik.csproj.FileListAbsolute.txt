@@ -1,0 +1,15 @@
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program003b-pravouhly-trojuhelnik/bin/Debug/net8.0/program003b-pravouhly-trojuhelnik
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program003b-pravouhly-trojuhelnik/bin/Debug/net8.0/program003b-pravouhly-trojuhelnik.deps.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program003b-pravouhly-trojuhelnik/bin/Debug/net8.0/program003b-pravouhly-trojuhelnik.runtimeconfig.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program003b-pravouhly-trojuhelnik/bin/Debug/net8.0/program003b-pravouhly-trojuhelnik.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program003b-pravouhly-trojuhelnik/bin/Debug/net8.0/program003b-pravouhly-trojuhelnik.pdb
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/program003b-pravouhly-trojuhelnik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/program003b-pravouhly-trojuhelnik.AssemblyInfoInputs.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/program003b-pravouhly-trojuhelnik.AssemblyInfo.cs
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/program003b-pravouhly-trojuhelnik.csproj.CoreCompileInputs.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/program003b-pravouhly-trojuhelnik.sourcelink.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/program003b-pravouhly-trojuhelnik.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/refint/program003b-pravouhly-trojuhelnik.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/program003b-pravouhly-trojuhelnik.pdb
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/program003b-pravouhly-trojuhelnik.genruntimeconfig.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/ref/program003b-pravouhly-trojuhelnik.dll
