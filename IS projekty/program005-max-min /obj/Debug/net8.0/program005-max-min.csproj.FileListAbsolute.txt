@@ -1,0 +1,15 @@
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program005-max-min /bin/Debug/net8.0/program005-max-min
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program005-max-min /bin/Debug/net8.0/program005-max-min.deps.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program005-max-min /bin/Debug/net8.0/program005-max-min.runtimeconfig.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program005-max-min /bin/Debug/net8.0/program005-max-min.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program005-max-min /bin/Debug/net8.0/program005-max-min.pdb
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program005-max-min /obj/Debug/net8.0/program005-max-min.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program005-max-min /obj/Debug/net8.0/program005-max-min.AssemblyInfoInputs.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program005-max-min /obj/Debug/net8.0/program005-max-min.AssemblyInfo.cs
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program005-max-min /obj/Debug/net8.0/program005-max-min.csproj.CoreCompileInputs.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program005-max-min /obj/Debug/net8.0/program005-max-min.sourcelink.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program005-max-min /obj/Debug/net8.0/program005-max-min.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program005-max-min /obj/Debug/net8.0/refint/program005-max-min.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program005-max-min /obj/Debug/net8.0/program005-max-min.pdb
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program005-max-min /obj/Debug/net8.0/program005-max-min.genruntimeconfig.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program005-max-min /obj/Debug/net8.0/ref/program005-max-min.dll

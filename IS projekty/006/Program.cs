@@ -1,53 +1,54 @@
-﻿// chci, aby se program opakoval po stisku klávesy "a"
-        string again = "a";
-        while(again.ToLower() == "a") // Metoda ToLower zajistí, že vstup bude kontrolován bez ohledu na velikost písmen
-         {
-            //Console.Clear();
-            Console.WriteLine("******************************");
-            Console.WriteLine("******* Analýza textu *******");
-            Console.WriteLine("******************************");
-            Console.WriteLine("******** Ihor Panchenko *********");
-            Console.WriteLine("******************************\n\n");
-            Console.WriteLine();
+﻿// chci, aby se program opakoval po stisku klávesy "a" 
+        string again = "a"; 
+        while(again.ToLower() == "a") // Metoda ToLower zajistí, že vstup bude kontrolován bez ohledu na velikost písmen 
+         { 
+            //Console.Clear(); 
+            Console.WriteLine("******************************"); 
+            Console.WriteLine("******* Analýza textu *******"); 
+            Console.WriteLine("******************************"); 
+            Console.WriteLine("******** Ihor Panchenko *********"); 
+            Console.WriteLine("******************************\n\n"); 
+            Console.WriteLine(); 
+ 
+            Console.Write("\nZadejte text pro analýzu: "); 
+            string myText = Console.ReadLine(); 
+ 
+            Console.WriteLine(); 
+            Console.WriteLine(myText); 
+            Console.WriteLine(myText[0]); 
+            Console.WriteLine(myText.Length); 
+            Console.WriteLine(myText[myText.Length-1]); 
+ 
+             
+            int samohla = 0; 
+            int souhla = 0; 
+            int cislice = 0; 
+            int znaky = 0; 
 
-            Console.Write("\nZadejte text pro analýzu: ");
-            string myText = Console.ReadLine();
-
-            Console.WriteLine();
-            Console.WriteLine(myText);
-            Console.WriteLine(myText[0]);
-            Console.WriteLine(myText.Length);
-            Console.WriteLine(myText[myText.Length-1]);
-
-            string samohlasky = "aáeéěiíoóuůúyý";
-            string souhlasky = "bcčdďfghjklmnňpqrřsštťvwxzž";
-            string cislice = "0123456789";
-            
-            int pocetSamohlasek = 0;
-            int pocetSouhlasek = 0;
-            int pocetCislic = 0;
-            int pocetOstatnich = 0;
-
-            foreach(char znak in myText.ToLower()) {
-                if(souhlasky.Contains(znak)) {
-                    pocetSouhlasek++;
-                }
-                else if(samohlasky.Contains(znak)) {
-                    pocetSamohlasek++;
-                }
-                else if(cislice.Contains(znak)) {
-                    pocetCislic++;
-                }
-                else
-                    pocetOstatnich++;
-            }
-
-            Console.WriteLine("\n\nPočet samohlásek: {0}", pocetSamohlasek);
-            Console.WriteLine("Počet souhlásek: {0}", pocetSouhlasek);
-            Console.WriteLine("Počet číslic: {0}", pocetCislic);
-            Console.WriteLine("Počet ostatních znaků: {0}", pocetOstatnich);
-
-            // Opakování programu
-            Console.WriteLine("Pro opakování programu stiskněte klávesu a");
-            again = Console.ReadLine();
+            string samohl = "aáeéěiíoóuůúyý"; 
+            string souhl = "bcčdďfghjklmnňpqrřsštťvwxzž"; 
+            string cislic = "0123456789"; 
+ 
+            foreach(char znak in myText.ToLower()) { 
+                if (samohl.Contains(znak)) { 
+                    samohla++; 
+                } 
+                else if (souhl.Contains(znak)) { 
+                    souhla++; 
+                } 
+                else if(cislic.Contains(znak)) { 
+                    cislice++; 
+                } 
+                else 
+                    znaky++; 
+            } 
+ 
+            Console.WriteLine("\n\nPočet samohlásek: {0}", samohla); 
+            Console.WriteLine("Počet souhlásek: {0}", souhla); 
+            Console.WriteLine("Počet číslic: {0}", cislice); 
+            Console.WriteLine("Počet znaků: {0}", znaky); 
+ 
+            // Opakování programu 
+            Console.WriteLine("Pro opakování programu stiskněte klávesu a"); 
+            again = Console.ReadLine(); 
         }
