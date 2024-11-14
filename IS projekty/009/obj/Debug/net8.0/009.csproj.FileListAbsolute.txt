@@ -1,0 +1,15 @@
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/009/bin/Debug/net8.0/009
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/009/bin/Debug/net8.0/009.deps.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/009/bin/Debug/net8.0/009.runtimeconfig.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/009/bin/Debug/net8.0/009.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/009/bin/Debug/net8.0/009.pdb
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/009/obj/Debug/net8.0/009.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/009/obj/Debug/net8.0/009.AssemblyInfoInputs.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/009/obj/Debug/net8.0/009.AssemblyInfo.cs
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/009/obj/Debug/net8.0/009.csproj.CoreCompileInputs.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/009/obj/Debug/net8.0/009.sourcelink.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/009/obj/Debug/net8.0/009.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/009/obj/Debug/net8.0/refint/009.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/009/obj/Debug/net8.0/009.pdb
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/009/obj/Debug/net8.0/009.genruntimeconfig.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/009/obj/Debug/net8.0/ref/009.dll
