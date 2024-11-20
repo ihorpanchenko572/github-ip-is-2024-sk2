@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("008DU")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("007 DU")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+303616488a5b768c1fa308ea7a6d31434cc708ab")]
-[assembly: System.Reflection.AssemblyProductAttribute("008DU")]
-[assembly: System.Reflection.AssemblyTitleAttribute("008DU")]
+[assembly: System.Reflection.AssemblyProductAttribute("007 DU")]
+[assembly: System.Reflection.AssemblyTitleAttribute("007 DU")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild
