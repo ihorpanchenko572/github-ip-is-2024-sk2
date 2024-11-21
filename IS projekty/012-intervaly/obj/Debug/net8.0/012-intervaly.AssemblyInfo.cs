@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("012-intervaly")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0007cfbe0e60b436d72c0e594c911a55c00b24fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e3e70b6432db98e2997b559f4535cdc03027119")]
 [assembly: System.Reflection.AssemblyProductAttribute("012-intervaly")]
 [assembly: System.Reflection.AssemblyTitleAttribute("012-intervaly")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

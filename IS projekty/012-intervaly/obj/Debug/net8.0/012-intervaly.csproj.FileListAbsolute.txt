@@ -1,0 +1,15 @@
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/012-intervaly/obj/Debug/net8.0/012-intervaly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/012-intervaly/obj/Debug/net8.0/012-intervaly.AssemblyInfoInputs.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/012-intervaly/obj/Debug/net8.0/012-intervaly.AssemblyInfo.cs
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/012-intervaly/obj/Debug/net8.0/012-intervaly.csproj.CoreCompileInputs.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/012-intervaly/obj/Debug/net8.0/012-intervaly.sourcelink.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/012-intervaly/bin/Debug/net8.0/012-intervaly
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/012-intervaly/bin/Debug/net8.0/012-intervaly.deps.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/012-intervaly/bin/Debug/net8.0/012-intervaly.runtimeconfig.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/012-intervaly/bin/Debug/net8.0/012-intervaly.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/012-intervaly/bin/Debug/net8.0/012-intervaly.pdb
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/012-intervaly/obj/Debug/net8.0/012-intervaly.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/012-intervaly/obj/Debug/net8.0/refint/012-intervaly.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/012-intervaly/obj/Debug/net8.0/012-intervaly.pdb
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/012-intervaly/obj/Debug/net8.0/012-intervaly.genruntimeconfig.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/012-intervaly/obj/Debug/net8.0/ref/012-intervaly.dll

@@ -42,10 +42,41 @@ string again = "a";
 
             Console.WriteLine("Náhodná čísla: ");
 
+            int interval01 = 0;
+            int interval02 = 0;
+            int interval03 = 0;
+            int interval04 = 0;
+
+
+
+
+
             for(int i=0; i<n; i++) {
                 myArray[i] = randomNumber.Next(dm, hm+1);
                 Console.Write("{0}; ", myArray[i]);
+                if (myArray[i] <= (0.25 * hm)) {
+                    interval01++;
+                }
+                else if(myArray[i] <= (0.5 * hm)){
+                    interval02++;
+                }
+                else if(myArray[i] <= (0.75 * hm)){
+                     interval03++;
+                }
+                else {
+                    interval04++;
+                    }
+               
             }
+
+            Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("\n\n Interval <{0};{1}>: {2}", dm, 0.25 * hm, interval01);
+             Console.ForegroundColor = ConsoleColor.Cyan;
+                Console.WriteLine("\n\n Interval <{0};{1}>: {2}", 0.25 * hm + 1, 0.5 * hm, interval02);
+                Console.ForegroundColor = ConsoleColor.Cyan;
+                Console.WriteLine("\n\n Interval <{0};{1}>: {2}", 0.5 * hm + 1, 0.75 * hm, interval03);
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("\n\n Interval <{0};{1}>: {2}", 0.75 * hm+1, hm, interval04);
             
             // Opakování programu
             Console.WriteLine("\n\nPro opakování programu stiskněte klávesu a");
