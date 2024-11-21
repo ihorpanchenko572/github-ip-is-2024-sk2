@@ -1,0 +1,11 @@
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/011 - konvergentní řady/bin/Debug/net8.0/011 - konvergentní řady
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/011 - konvergentní řady/bin/Debug/net8.0/011 - konvergentní řady.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/011 - konvergentní řady/bin/Debug/net8.0/011 - konvergentní řady.pdb
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/011 - konvergentní řady/obj/Debug/net8.0/011 - konvergentní řady.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/011 - konvergentní řady/obj/Debug/net8.0/011 - konvergentní řady.AssemblyInfoInputs.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/011 - konvergentní řady/obj/Debug/net8.0/011 - konvergentní řady.AssemblyInfo.cs
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/011 - konvergentní řady/obj/Debug/net8.0/011 - konvergentní řady.csproj.CoreCompileInputs.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/011 - konvergentní řady/obj/Debug/net8.0/011 - konvergentní řady.sourcelink.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/011 - konvergentní řady/obj/Debug/net8.0/011 - konvergentní řady.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/011 - konvergentní řady/obj/Debug/net8.0/refint/011 - konvergentní řady.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/011 - konvergentní řady/obj/Debug/net8.0/011 - konvergentní řady.pdb
