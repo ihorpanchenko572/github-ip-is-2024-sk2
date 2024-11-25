@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("013-Aritmetická posloupnost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0007cfbe0e60b436d72c0e594c911a55c00b24fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0be55a3ef4085546f5a28f96548afd30854e13a")]
 [assembly: System.Reflection.AssemblyProductAttribute("013-Aritmetická posloupnost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("013-Aritmetická posloupnost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

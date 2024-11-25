@@ -1,0 +1,15 @@
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/samles2/bin/Debug/net8.0/samles2
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/samles2/bin/Debug/net8.0/samles2.deps.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/samles2/bin/Debug/net8.0/samles2.runtimeconfig.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/samles2/bin/Debug/net8.0/samles2.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/samles2/bin/Debug/net8.0/samles2.pdb
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/samles2/obj/Debug/net8.0/samles2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/samles2/obj/Debug/net8.0/samles2.AssemblyInfoInputs.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/samles2/obj/Debug/net8.0/samles2.AssemblyInfo.cs
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/samles2/obj/Debug/net8.0/samles2.csproj.CoreCompileInputs.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/samles2/obj/Debug/net8.0/samles2.sourcelink.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/samles2/obj/Debug/net8.0/samles2.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/samles2/obj/Debug/net8.0/refint/samles2.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/samles2/obj/Debug/net8.0/samles2.pdb
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/samles2/obj/Debug/net8.0/samles2.genruntimeconfig.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/samles2/obj/Debug/net8.0/ref/samles2.dll
