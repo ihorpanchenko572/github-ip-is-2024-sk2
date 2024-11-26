@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("011 - konvergentní řady")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0007cfbe0e60b436d72c0e594c911a55c00b24fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11bf0607c9d2007d6176a798901338090230c37a")]
 [assembly: System.Reflection.AssemblyProductAttribute("011 - konvergentní řady")]
 [assembly: System.Reflection.AssemblyTitleAttribute("011 - konvergentní řady")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

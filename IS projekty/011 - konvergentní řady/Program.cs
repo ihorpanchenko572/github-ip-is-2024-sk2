@@ -7,7 +7,7 @@
         while(again == "a") { 
             //Console.Clear(); 
             Console.WriteLine("******************************"); 
-            Console.WriteLine("******* Výpočet PI *******"); 
+            Console.WriteLine("******* 011 výpočet ln 2 *****"); 
             Console.WriteLine("******************************"); 
             Console.WriteLine("******** Ihor Panchenko *********"); 
             Console.WriteLine("******************************\n\n"); 
@@ -19,37 +19,23 @@
             while(!double.TryParse(Console.ReadLine(), out presnost)) { 
                 Console.Write("Nezadali jste přesnost. Zadejte znovu: "); 
             } 
- 
-
-            double  i = 1;
-            double piCtvrt = 1;
+            double i = 1;
             double znamenko = 1;
 
+             double logaritmus = 1;
+            znamenko = 1;
+            i = 1;
+            while((1/i) >= presnost)
+            {
+               i++;
+               znamenko = -znamenko;
+               logaritmus = logaritmus + znamenko * 1 / i;
+            }
+            Console.Write("\nLn2: {0}; ", logaritmus);
 
-            while(1/i >= presnost){
-                 i = i + 2;
-                 znamenko = znamenko;
-                 piCtvrt = piCtvrt + znamenko * 1/i;
-                if(znamenko==1){
-                     Console.WriteLine("\nZlomek: +1/{0} ; aktualní hodnota PI = {1}", i, piCtvrt * 4);
-                }
-                else {
-                    Console.WriteLine("\nZlomek: -1/{0} ; aktualní hodnota PI = {1}", i, piCtvrt * 4);
-                }
-
-
-              }
-             
-              double pi = 4 * piCtvrt;
-            Console.WriteLine("\n\n Pi: {0} ", piCtvrt * 4); 
-            Console.WriteLine("\n\n"); 
-            Console.WriteLine("\n\n Pi: {0:f4}", piCtvrt * 4); 
+            Console.Write("\n\n"); 
 
 
-
-
-
-             
             // Opakování programu 
             Console.WriteLine("Pro opakování programu stiskněte klávesu a"); 
             again = Console.ReadLine(); 
