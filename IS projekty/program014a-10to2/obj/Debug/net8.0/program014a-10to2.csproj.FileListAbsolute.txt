@@ -1,0 +1,15 @@
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program014a-10to2/bin/Debug/net8.0/program014a-10to2
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program014a-10to2/bin/Debug/net8.0/program014a-10to2.deps.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program014a-10to2/bin/Debug/net8.0/program014a-10to2.runtimeconfig.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program014a-10to2/bin/Debug/net8.0/program014a-10to2.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program014a-10to2/bin/Debug/net8.0/program014a-10to2.pdb
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program014a-10to2/obj/Debug/net8.0/program014a-10to2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program014a-10to2/obj/Debug/net8.0/program014a-10to2.AssemblyInfoInputs.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program014a-10to2/obj/Debug/net8.0/program014a-10to2.AssemblyInfo.cs
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program014a-10to2/obj/Debug/net8.0/program014a-10to2.csproj.CoreCompileInputs.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program014a-10to2/obj/Debug/net8.0/program014a-10to2.sourcelink.json
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program014a-10to2/obj/Debug/net8.0/program014a-10to2.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program014a-10to2/obj/Debug/net8.0/refint/program014a-10to2.dll
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program014a-10to2/obj/Debug/net8.0/program014a-10to2.pdb
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program014a-10to2/obj/Debug/net8.0/program014a-10to2.genruntimeconfig.cache
+/Users/igorpancenko/Downloads/IS2024/github-ip-is-2024-sk2/IS projekty/program014a-10to2/obj/Debug/net8.0/ref/program014a-10to2.dll

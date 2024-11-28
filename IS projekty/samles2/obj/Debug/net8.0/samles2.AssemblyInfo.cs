@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("samles2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0be55a3ef4085546f5a28f96548afd30854e13a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6331030e5c5973cb2217ef277c82b30bb4b9661")]
 [assembly: System.Reflection.AssemblyProductAttribute("samles2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("samles2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
